@@ -25,6 +25,7 @@ Este projeto visa a partilhar um pouco do meu conhecimento e atender exclusivame
     - PHP
     - MYSQL
 
->>>>>>> b8c23ea6777bcaab8c0a012fc8d96fb759c225da
 
-![The San Juan Mountains are beautiful!](./assets/images/tela.png "San Juan Mountains")
+## Abaixo está a imagem de tela do projecto
+
+![Sistema de Geração de Tarefas - CRUD!](./assets/images/tela.png "github.com/osvaldocariege06")
