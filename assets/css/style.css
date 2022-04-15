@@ -1,0 +1,21 @@
+
+
+table img{
+    width: 30px;
+    height: 30px;
+}
+table a{
+    width: 30px;
+    height: 30px;
+    padding: 10px !important;
+    margin: 0px 5px;
+    border-radius: 6px;
+}
+table a.edit:nth-child(1){
+    background-color: #3f3f3f;
+    width: 100%;
+    height: 100%;
+}
+table a.delete:nth-child(2){
+    background-color: #c50505;
+}
